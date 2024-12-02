@@ -34,7 +34,7 @@ Zawierają 5 000 rekordów zebranych od pracowników z całego świata. Kluczowe
 | `Social_Isolation_Rating`      | Samoocena pracownika na temat odczuwanej izolacji (od 1 do 5, gdzie 5 oznacza najwyższą izolację).    |
 | `Satisfaction_with_Remote_Work`| Ocena zadowolenia z pracy zdalnej (np. Satisfied, Neutral, Unsatisfied).                              |
 
-# Uzasadnienie Wyboru
+# Uzasadnienie Wyboru Zbioru Danych
 Wybrano ten zbiór danych ze względu na jego aktualność i praktyczne zastosowanie. Zbiór zawiera kluczowe zmienne oraz różnorodne cechy co pozwala na przeprowadzenie bardziej wnikliwych analiz oraz budowę dobrych modeli predykcji.
 
 # Cel Projektu
